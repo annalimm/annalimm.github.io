@@ -31,7 +31,7 @@
     font-size: 40px;
 }
 
-.social-icons a i {
+.social-icons a i{
     font-size: 40px;
     color: #1f4087;
 }
@@ -83,3 +83,12 @@ body{
     display: inline-block;
     margin: 5px;
 } */
+
+@media (max-width: 768px) {
+    /* Styles for smaller screens (e.g., smartphones) */
+    .canvas {
+      width: 100%; /* Adjust the canvas width for smaller screens */
+      height: auto; /* Automatically adjust the height to maintain aspect ratio */
+    }
+    /* Other mobile-specific styles */
+  }
