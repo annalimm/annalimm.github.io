@@ -75,10 +75,11 @@ canvas {
     .ball-text {
         color: rgb(255, 255, 255);
         font-size: 20px;
+        margin-bottom: 15px;
     }
     
     .social-icons a i{
-        font-size: 20px;
+        font-size: 32px;
         color: #1f4087;
     }
   }

@@ -44,7 +44,7 @@ gsap.to(ball, {
   scrollTrigger: {
     scrub: 0.5,  //true
     pin: "canvas",
-    end: "400%",  //lenght of scrolling
+    end: "300%",  //lenght of scrolling
     //     touchScrub: true, // Enable touch scrubbing
     //     snap: 1 / frameCount, // Adjust snap value for smoother scrolling
   },
